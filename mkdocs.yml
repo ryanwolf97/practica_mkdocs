@@ -1,5 +1,12 @@
-site_name: My Docs
+site_name: Les meues práctiques
 
+nav:
+ - Inici: index.md
+ - Pràctica 1: practica1.md
+ - Pràctica 2: practica2.md
+ - Práctica 3: practica3.md
+ - Pràctica 4: practica4.md
+ - Pràctica 5: practica5.md
 theme:
   name: material
   palette:
