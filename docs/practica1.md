@@ -4,4 +4,6 @@
 
  - Introducció a Git y GitHub
 
+## Actualització
 
+ - Aquesta linea serveix per a comprobar el funcionament de la integració  
