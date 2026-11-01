@@ -15,7 +15,7 @@ Cree una branca anomenada `primera` al meu repositori local i execute la instruc
 
 **Figura 1. Cree la nova branca al meu repositori local.**
 
-![Figura 1: Crear la branca primera](imagenes/practica3/figura-01.png)
+![Figura 1: Crear la branca primera](imagenes/practica3/figura-01.png).
 
 ## 2. Crear un fitxer a la branca i fusionar-lo
 
